@@ -1,0 +1,9 @@
+{
+  "Name": "Mindtails",
+  "Version": "0.1",
+  "Id": "Timberborn.ModExamples.HelloWorld",
+  "MinimumGameVersion": "0.0.0.0",
+  "Description": "A new faction based on science",
+  "RequiredMods": [
+  ]
+}
